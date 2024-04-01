@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AudioClips
+  m_EditorClassIdentifier: 
+  m_GroupName: AudioClips
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 871cef10f34877542aad89889ceddc0c
+  m_SerializeEntries:
+  - m_GUID: d7b27bc0ab50aa845bc388bccb878245
+    m_Address: Assets/Audio/ClipInfo/CarHit 4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d52ec40f0abd0a41bb14253c7864647
+    m_Address: Assets/Audio/ClipInfo/CarHit 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36ceb518ea67a4549b75e1b811629dd7
+    m_Address: Assets/Audio/ClipInfo/CarHit 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd2a0814456d26549b060d2358e5dc72
+    m_Address: Assets/Audio/ClipInfo/CarHit 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6455dde696931e544906a9d097f97934
+    m_Address: Assets/Audio/ClipInfo/CarExit 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf62004ae93ec149aa8cfc39369eb13
+    m_Address: Assets/Audio/ClipInfo/CarExit 0.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9abfe289dfad0e84a8dd2b09d34b9bd9
+    m_Address: Assets/Audio/ClipInfo/LevelComplete.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3524efd8d718fa49a2a267902079c04
+    m_Address: Assets/Audio/ClipInfo/GameOver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d40dc6c18820c7458e6e10fd22c40dd
+    m_Address: Assets/Audio/ClipInfo/EventSound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59c3a0936de87f142bf0f98093b724c6
+    m_Address: Assets/Audio/ClipInfo/CoinWin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9046e55cb1d5d484ba013bff81921128
+    m_Address: Assets/Audio/ClipInfo/CoinCollect.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b4de1232d4040439f610d47b4df078
+    m_Address: Assets/Audio/ClipInfo/Click.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d05658dd6eb54054a9c8d173b58f2f0d
+    m_Address: Assets/Audio/ClipInfo/CarHorn.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb4d045f564780a4db29b8641ed45e65
+    m_Address: Assets/Audio/ClipInfo/CarHit 0.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dedb6834a8fe4b24a90a700a4d545037
+    m_Address: Assets/Audio/ClipInfo/CarEngine.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fa49731c9d5ab54f84997c7bc07e18b
+    m_Address: Assets/Audio/ClipInfo/CarDrift.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37115dd2cdcc87945959d66ec7b525fa
+    m_Address: Assets/Audio/ClipInfo/BoyHit.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f01c6c43a84d4240a7eda88a5fe88e5
+    m_Address: Assets/Audio/ClipInfo/Bling.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b66847e49d579f4c9b16a013a1697aa
+    m_Address: Assets/Audio/ClipInfo/CarHitDefault.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioInfo
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a711a96beda9e3845aa930558f67d531, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5597605eb4dc8924786b54aea1e434de, type: 2}
+    - {fileID: 11400000, guid: 69eab16ef90343b4097644f57525e702, type: 2}

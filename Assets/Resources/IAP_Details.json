@@ -1,0 +1,100 @@
+{
+    "morefun.carparking.carpack2": {
+        "price": "$0.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 2
+        }
+    },
+    "morefun.carparking.carpack3": {
+        "price": "$1.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 3
+        }
+    },
+    "morefun.carparking.carpack4": {
+        "price": "$2.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 4
+        }
+    },
+    "morefun.carparking.carpack5": {
+        "price": "$1.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 5
+        }
+    },
+    "morefun.carparking.scenepack2": {
+        "price": "$1.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 2
+        }
+    },
+    "morefun.carparking.scenepack3": {
+        "price": "$2.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 3
+        }
+    },
+    "morefun.carparking.scenepack4": {
+        "price": "$2.99",
+        "offerName": "Null",
+        "rewards": {
+            "pack": 4
+        }
+    },
+    "morefun.carparking.fullfuel": {
+        "price": "$0.99",
+        "offerName": "Null",
+        "rewards": {
+            "fuel": 1
+        }
+    },
+    "morefun.carparking.removeads": {
+        "price": "$2.99",
+        "offerName": "Null",
+        "rewards": {
+            "removeads": 0
+        }
+    },
+    "morefun.carparking.coinpack1": {
+        "price": "$0.99",
+        "offerName": "HOT PACK",
+        "rewards": {
+            "coin": 3000
+        }
+    },
+    "morefun.carparking.coinpack2": {
+        "price": "$1.99",
+        "offerName": "Null",
+        "rewards": {
+            "coin": 5000
+        }
+    },
+    "morefun.carparking.coinpack3": {
+        "price": "$2.99",
+        "offerName": "Null",
+        "rewards": {
+            "coin": 8000
+        }
+    },
+    "morefun.carparking.coinpack4": {
+        "price": "$3.99",
+        "offerName": "",
+        "rewards": {
+            "coin": 12000
+        }
+    },
+    "morefun.carparking.coinpack5": {
+        "price": "$5.99",
+        "offerName": "MEGA PACK",
+        "rewards": {
+            "coin": 24000
+        }
+    }
+}

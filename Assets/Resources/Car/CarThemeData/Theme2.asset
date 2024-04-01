@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa80d7e0debd084fa312dd76e0a6be5, type: 3}
+  m_Name: Theme2
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 29d79de201a490c44a0d3b0795e8f8db, type: 2}
+  mesh:
+  - {fileID: -6692150158272535344, guid: e6d6e0c1eb0251243b5041f2add38b4c, type: 3}
+  - {fileID: -8564322695552486340, guid: afed848cd9202694fb237a30b9832657, type: 3}
+  - {fileID: 3787776714017265533, guid: 89fb1918c067ca146b34db8a1ac2a858, type: 3}
+  textures:
+  - {fileID: 2800000, guid: 5f508534586e60d4584a2caada7e35a1, type: 3}

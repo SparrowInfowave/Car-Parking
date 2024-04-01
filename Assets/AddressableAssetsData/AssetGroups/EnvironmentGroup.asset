@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EnvironmentGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: EnvironmentGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9932ec1a46867e54994b77015a19498c
+  m_SerializeEntries:
+  - m_GUID: 60512c8368731c44290313935e5b0934
+    m_Address: CarObject/Car2x5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Car
+  - m_GUID: 0424ff2726e8fcd4aac3e8784b9ee0c7
+    m_Address: CarObject/Car2x4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Car
+  - m_GUID: 17695c65614217d488a141a70b900abc
+    m_Address: CarObject/Car2x3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Car
+  - m_GUID: 82b3430ffce06594aaeda9b08394c6b4
+    m_Address: RoadObject/Road_Corner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Road
+  - m_GUID: 53462decdfe0f624b9a09aa07fb273d3
+    m_Address: RoadObject/Road_Normal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Road
+  - m_GUID: 0586ce47f5299fe4dbe04e866e8f59df
+    m_Address: RoadObject/Road_T.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Road
+  - m_GUID: ecbbb9cb830df5348a7f8f4bc97077e8
+    m_Address: InnerObstacle/obs_cardbox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obstacle
+  - m_GUID: 2b4d0d6c4bc48b444aeabd2bb60382ae
+    m_Address: InnerObstacle/obs_cone.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obstacle
+  - m_GUID: c3b89ac651c10a7439162e3e09376d5d
+    m_Address: InnerObstacle/obs_garbage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obstacle
+  - m_GUID: 0bc42d0a2b66b854885f5aaaac9cf9df
+    m_Address: InnerObstacle/obs_mailbox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obstacle
+  - m_GUID: f8df3f05afabd494f9a301878e9463f4
+    m_Address: Environment/InnerObstacle/obs_wall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obstacle
+  - m_GUID: b4da70106f8222f4e9b34931620805e2
+    m_Address: Environment/Spawner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Spawner
+  - m_GUID: 6556dc41b3d1c6a428e16c38307e4981
+    m_Address: Assets/Environment/InnerObstacle/obs_wallCorner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Obstacle
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a711a96beda9e3845aa930558f67d531, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f7463f825b8b0764ebd2afff8920abf8, type: 2}
+    - {fileID: 11400000, guid: bad4d20acd8741a4cac6323a034a533a, type: 2}
